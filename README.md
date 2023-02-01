@@ -14,3 +14,6 @@ react-router, history library의 경우 redux-persist처럼 추가 설치가 필
 
  그래서 위 방식들의 대안으로 history.pushstate와 history.state를 이용 했습니다. 
  덕분에 데이터 유지에 대해 많이 찾아보고 공부가 되었습니다. 
+
+
+p.s 크롬을 기준으로 제작 하였습니다.
