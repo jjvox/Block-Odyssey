@@ -1,6 +1,5 @@
 import { configureStore } from "@reduxjs/toolkit";
 import { useDispatch } from "react-redux";
-import { HistoryPushSliceReducer } from "./historyPushSlice";
 import { itemListReducer } from "./itemListSlice";
 
 export const store = configureStore({
