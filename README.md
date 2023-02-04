@@ -17,3 +17,5 @@ react-router, history library의 경우 redux-persist처럼 추가 설치가 필
 
 
 p.s 크롬을 기준으로 제작 하였습니다.
+
+![121](https://user-images.githubusercontent.com/110772094/216763156-cc498b41-5ce3-4df1-841f-79c343d0c381.PNG)
